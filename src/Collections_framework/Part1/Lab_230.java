@@ -1,4 +1,4 @@
-package Collections_framework;
+package Collections_framework.Part1;
 
 public class Lab_230 {
     public static void main(String[] args) {

@@ -1,0 +1,41 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§„³èşÿÿÿÿ8¡®ÎèÀ2J$78a6f66d-f697-4dc3-8d6f-655e3f0e8d48
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÖ¯÷8¡®ÎèÀ2J$e1ea1d44-7bf7-4811-bb60-7eb964110026
+r
+java:S3740
+"/Provide the parametrized type for this generic.(•µ«Ê8¢®ÎèÀ2J$9d5aa3a2-091e-4432-911e-cf813670d65a
+r
+java:S3740
+"/Provide the parametrized type for this generic.(•µ«Ê8¢®ÎèÀ2J$bf9184c6-0958-42ae-8fd7-59a981b7b832
+w
+java:S3740"/Provide the parametrized type for this generic.(ö±’”şÿÿÿÿ8¢®ÎèÀ2J$76a881d4-9f10-4b71-bdde-59429f5bd85a
+w
+java:S3740"/Provide the parametrized type for this generic.(ö±’”şÿÿÿÿ8¢®ÎèÀ2J$d855200b-63fd-486c-bcb9-f86ecff2ed42
+w
+java:S3740"/Provide the parametrized type for this generic.(¿Äåûÿÿÿÿ8¢®ÎèÀ2J$21390eee-9a9b-42f2-a670-177a70b18a0e
+w
+java:S3740"/Provide the parametrized type for this generic.(¿Äåûÿÿÿÿ8¢®ÎèÀ2J$2ac11db5-3a0c-45f5-bdf3-cb8a5a17f308
+r
+java:S3740"/Provide the parametrized type for this generic.(í¥Æ®8¢®ÎèÀ2J$e52f7793-2d5b-45f4-a96d-f92bec384edf
+r
+java:S3740"/Provide the parametrized type for this generic.(í¥Æ®8¢®ÎèÀ2J$b71a84fa-a584-4f99-b742-26d826d7ac3c
+
+java:S1192"GDefine a constant instead of duplicating this literal "Pramod" 5 times.(Ÿ‹±¡ûÿÿÿÿ8¢®ÎèÀ2J$d36c52dd-6c8a-4dcb-b438-e3ebab5d331c
+~
+java:S1854";Remove this useless assignment to local variable "mylist3".(í¥Æ®8¤®ÎèÀ2J$d142f1b7-5be9-448c-90bf-d16bf5350cd9
+ƒ
+java:S1854";Remove this useless assignment to local variable "mylist2".(¿Äåûÿÿÿÿ8¤®ÎèÀ2J$025a0b86-8747-40c6-a928-6a8b558d8110
+~
+java:S1854
+";Remove this useless assignment to local variable "mylist1".(•µ«Ê8¤®ÎèÀ2J$799dae45-49a9-4dde-ab23-fa1d2ce8b3e6
+o
+java:S1481
+",Remove this unused "mylist1" local variable.(•µ«Ê8¥®ÎèÀ2J$7121c39a-fbdf-44fe-ae64-2ec0ec792472
+t
+java:S1481",Remove this unused "mylist2" local variable.(¿Äåûÿÿÿÿ8¥®ÎèÀ2J$b6d1a96e-b891-4901-b905-9da6415a5bd9
+o
+java:S1481",Remove this unused "mylist3" local variable.(í¥Æ®8¥®ÎèÀ2J$698fd457-0221-49f0-9ce3-b495d1483828
+r	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ8¦®ÎèÀ2J$d5fc2422-5cdc-467d-8a1f-2600d3af1e78
+r	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ8¦®ÎèÀ2J$ce7bc90b-5c96-4e55-a5a9-a485b8ed85e0
+m	java:S106"+Replace this use of System.out by a logger.(âŒ“Á8¦®ÎèÀ2J$2c77eaae-c4be-4d9c-af6d-f07e0ceb92fb
+r	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ8§®ÎèÀ2J$6d54ccbb-2b3e-43f6-ad20-b4ab7616f09d
