@@ -1,0 +1,41 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§„³èşÿÿÿÿ8¡®ÎèÀ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›À¹ıÿÿÿÿ8¡®ÎèÀ2
+L
+java:S3740
+"/Provide the parametrized type for this generic.(•µ«Ê8¢®ÎèÀ2
+L
+java:S3740
+"/Provide the parametrized type for this generic.(•µ«Ê8¢®ÎèÀ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(ö±’”şÿÿÿÿ8¢®ÎèÀ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(ö±’”şÿÿÿÿ8¢®ÎèÀ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(¿Äåûÿÿÿÿ8¢®ÎèÀ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(¿Äåûÿÿÿÿ8¢®ÎèÀ2
+L
+java:S3740"/Provide the parametrized type for this generic.(í¥Æ®8¢®ÎèÀ2
+L
+java:S3740"/Provide the parametrized type for this generic.(í¥Æ®8¢®ÎèÀ2
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Pramod" 5 times.(Ÿ‹±¡ûÿÿÿÿ8¢®ÎèÀ2
+X
+java:S1854";Remove this useless assignment to local variable "mylist3".(í¥Æ®8¤®ÎèÀ2
+]
+java:S1854";Remove this useless assignment to local variable "mylist2".(¿Äåûÿÿÿÿ8¤®ÎèÀ2
+X
+java:S1854
+";Remove this useless assignment to local variable "mylist1".(•µ«Ê8¤®ÎèÀ2
+I
+java:S1481
+",Remove this unused "mylist1" local variable.(•µ«Ê8¥®ÎèÀ2
+N
+java:S1481",Remove this unused "mylist2" local variable.(¿Äåûÿÿÿÿ8¥®ÎèÀ2
+I
+java:S1481",Remove this unused "mylist3" local variable.(í¥Æ®8¥®ÎèÀ2
+L	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ8¦®ÎèÀ2
+L	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ8¦®ÎèÀ2
+G	java:S106"+Replace this use of System.out by a logger.(âŒ“Á8¦®ÎèÀ2
+L	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ8§®ÎèÀ2
