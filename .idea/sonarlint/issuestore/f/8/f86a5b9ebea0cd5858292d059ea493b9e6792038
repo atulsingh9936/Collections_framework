@@ -1,22 +1,0 @@
-
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–µŒˆÿÿÿÿÿ8ÀŸ˜ãÀ2
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯³¸ªşÿÿÿÿ8ÀŸ˜ãÀ2
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›À¹ıÿÿÿÿ8ÀŸ˜ãÀ2
-Q
-java:S3740"/Provide the parametrized type for this generic.(¯³¸ªşÿÿÿÿ8ÂŸ˜ãÀ2
-Q
-java:S3740"/Provide the parametrized type for this generic.(¯³¸ªşÿÿÿÿ8ÂŸ˜ãÀ2
-i
-java:S1192"GDefine a constant instead of duplicating this literal "Pramod" 7 times.(ÊŞÂ¦úÿÿÿÿ8ÂŸ˜ãÀ2
-X	java:S125	"<This block of commented-out lines of code should be removed.(¼ıÚ¡8ÂŸ˜ãÀ2
-G	java:S106"+Replace this use of System.out by a logger.(÷´Öî8ÂŸ˜ãÀ2
-G	java:S106"+Replace this use of System.out by a logger.(Ü´µÃ8ÂŸ˜ãÀ2
-G	java:S106"+Replace this use of System.out by a logger.(÷´Öî8ËŸ˜ãÀ2
-G	java:S106"+Replace this use of System.out by a logger.(÷´Öî8ËŸ˜ãÀ2
-L	java:S106"+Replace this use of System.out by a logger.(ïĞĞ¸ıÿÿÿÿ8ËŸ˜ãÀ2
-G	java:S106&"+Replace this use of System.out by a logger.(÷´Öî8ËŸ˜ãÀ2
-G	java:S106("+Replace this use of System.out by a logger.(÷´Öî8ËŸ˜ãÀ2
-G	java:S106,"+Replace this use of System.out by a logger.(÷´Öî8ËŸ˜ãÀ2
-G	java:S106/"+Replace this use of System.out by a logger.(‚ÎšÛ8ËŸ˜ãÀ2
-L	java:S1061"+Replace this use of System.out by a logger.(â±ßÑüÿÿÿÿ8ÍŸ˜ãÀ2
-G	java:S1067"+Replace this use of System.out by a logger.(Áªø8ÍŸ˜ãÀ2

@@ -1,28 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¬êúÿÿÿÿ8¯éÀ2J$79acac6a-c5eb-4672-8282-ba9f58ec50b4
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›À¹ıÿÿÿÿ8¯éÀ2J$3708ee02-1b8a-43f1-b0c5-43f6b244d1b6
-w
-java:S3740
-"/Provide the parametrized type for this generic.(Şˆííûÿÿÿÿ8¯éÀ2J$c3179a7e-713a-436e-a027-6ec488606006
-w
-java:S3740
-"/Provide the parametrized type for this generic.(Şˆííûÿÿÿÿ8¯éÀ2J$a7d90733-66c3-40e6-958d-c0f3463da840
-r
-java:S3740"/Provide the parametrized type for this generic.(íÒ«8¯éÀ2J$c95a498c-49a8-4e7e-8653-9e7c682b91d3
-r
-java:S3740"/Provide the parametrized type for this generic.(íÒ«8¯éÀ2J$67e819be-e484-4c91-b278-861b684c2d51
-r
-java:S3740"/Provide the parametrized type for this generic.(Ä’ˆò8¯éÀ2J$1ead9c2b-bee8-4d49-b4a5-38617750bdfa
-r
-java:S3740"/Provide the parametrized type for this generic.(Ä’ˆò8¯éÀ2J$44d06d23-1dfb-4d5d-86bb-139648281a97
-‰
-java:S1192"FDefine a constant instead of duplicating this literal "Kiran" 3 times.(çˆ¹ß8°éÀ2J$6a306f3b-4af9-4482-ad97-a68dddc5f29e
-
-java:S1192"GDefine a constant instead of duplicating this literal "Anusha" 3 times.(‰ïÌşÿÿÿÿ8°éÀ2J$24af3cee-41ea-432a-b660-2ed4fa323098
-
-java:S1192"GDefine a constant instead of duplicating this literal "Pramod" 3 times.(àˆ³Üüÿÿÿÿ8°éÀ2J$b2e8c0df-b916-4a26-b582-0e7bd13c21dc
-¨
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«8±éÀ2J$91d91063-7ee9-46dc-896a-11192038e085
-m	java:S106"+Replace this use of System.out by a logger.(ÁœõÑ8³éÀ2J$c991d778-aa94-43b3-8ee8-d4888d1aa6c2
-r	java:S106"+Replace this use of System.out by a logger.(Ä©‚šÿÿÿÿÿ8µéÀ2J$7debe339-22b4-42b1-a0c5-3e3b8b2dc9a3
-L	java:S106"+Replace this use of System.out by a logger.(ÍúÀªÿÿÿÿÿ8ÀíéÀ2

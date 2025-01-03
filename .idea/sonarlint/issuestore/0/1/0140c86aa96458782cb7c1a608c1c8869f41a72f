@@ -1,0 +1,6 @@
+
+”	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ðƒô–ùÿÿÿÿ8™Ù¤æÂ2J$fa799c50-c811-456a-9695-cb6ebb3c6b13
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÎ×®8™Ù¤æÂ2J$4183b3f0-934d-40ef-aa86-dada089ffae2
+¡
+java:S1210M"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¬…ÁÍøÿÿÿÿ8¬Ù¤æÂ2J$445d5064-6837-4457-b996-77d8a4e346e4
+ƒ	java:S125I"<This block of commented-out lines of code should be removed.(‡Ó¥öþÿÿÿÿ8²Ù¤æÂ2J$45191328-9f9f-4f47-aeb3-d817884bc864

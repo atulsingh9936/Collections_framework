@@ -1,19 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıĞ¿«øÿÿÿÿ8°‚²áÀ2J$a4b07a41-e70f-42b2-9807-d61650bf413f
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÓ²‡ùÿÿÿÿ8°‚²áÀ2J$4f2a8446-958b-46a2-91c0-b3cdd0fb5289
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›À¹ıÿÿÿÿ8°‚²áÀ2J$54f2dad8-fa69-45b8-b744-c50d42ee313d
-w
-java:S3740"/Provide the parametrized type for this generic.(İÉµúÿÿÿÿ8°‚²áÀ2J$08de087e-73d9-449e-b1e3-4eed62cebf93
-w
-java:S3740"/Provide the parametrized type for this generic.(ŞÓ²‡ùÿÿÿÿ8°‚²áÀ2J$ffc532af-d194-4cb8-9ccc-d62de427937c
-
-java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(ŞÓ²‡ùÿÿÿÿ8°‚²áÀ2J$030a9309-dc0b-462a-a5c6-5610c49d2c24
-m	java:S106"+Replace this use of System.out by a logger.(Ó¡İ†8°‚²áÀ2J$59e95efd-80b8-4375-b874-51f22e58cd72
-l	java:S106"+Replace this use of System.out by a logger.(®æd8°‚²áÀ2J$ebda23dd-fdd4-47fa-afda-333163c23f2c
-l	java:S106"+Replace this use of System.out by a logger.(Ğ‰­68¹‚²áÀ2J$5c7c53c5-3ec4-477d-b22d-0361366a2186
-m	java:S106"+Replace this use of System.out by a logger.(šİñè8¹‚²áÀ2J$e0dd22dc-a86f-4481-a354-7e8d32943a07
-r	java:S106"+Replace this use of System.out by a logger.(¿Âúÿÿÿÿ8º‚²áÀ2J$d9473762-02a5-4094-b1e0-baacfff208a8
-~	java:S125"<This block of commented-out lines of code should be removed.(Í¥Áƒ8º‚²áÀ2J$6a29d0d3-2dbe-4943-aa52-8134160dba6a
-m	java:S106"+Replace this use of System.out by a logger.(š®‰ç8¼‚²áÀ2J$aad38797-73ad-4a35-8bba-43b2a62dd617
-r	java:S106 "+Replace this use of System.out by a logger.(îÉ¿øÿÿÿÿ8¼‚²áÀ2J$56839df6-d8be-4227-8368-0f35a5abcfcb
-]	java:S125&"<This block of commented-out lines of code should be removed.(²¤‘åûÿÿÿÿ8³ƒÜáÀ2

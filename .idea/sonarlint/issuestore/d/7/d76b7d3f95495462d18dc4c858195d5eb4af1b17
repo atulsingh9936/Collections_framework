@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÉÔÿ8úÈµÄÂ2J$3b06b393-6224-427a-97b4-869dc7c4d2f0
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÎ×®8ûÈµÄÂ2J$0197a4be-40db-4d6b-8b87-841d7d29bd38
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ8ıÈµÄÂ2J$4f61dfa3-7951-4485-9ac3-0747095c1160
+r	java:S106"+Replace this use of System.out by a logger.(‰É†şÿÿÿÿ8šÍºÄÂ2J$f587a6d1-5b29-4bda-b4ea-66870a0ba12d
+m	java:S106"+Replace this use of System.out by a logger.(¢˜ğ‡8ÀÄÂ2J$f563632a-d5b2-4638-8682-22130f5f1858
+]	java:S125"<This block of commented-out lines of code should be removed.(Î¢Ø¿ûÿÿÿÿ8Ù‹ÈÄÂ2
+r	java:S106"+Replace this use of System.out by a logger.(‰É†şÿÿÿÿ8ÉøÇÄÂ2J$82af940a-2b53-4da6-9ac7-b581a26f4708

@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şûÌ¼8¾ªÄÂ2J$3bec4d9b-9b0b-4fa0-b60f-e6bac85db8cd
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÎ×®8¿ªÄÂ2J$d2c416cd-7625-4c52-82cd-00998839b7ec
+w
+java:S3740"/Provide the parametrized type for this generic.(ùÚµåÿÿÿÿÿ8ÀªÄÂ2J$58b5d89f-1203-42e2-aecc-3efce66ceb34
+­
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùÚµåÿÿÿÿÿ8ÂªÄÂ2J$bd70ebf8-e0ec-49db-9c1d-67fcc15f128d
+G	java:S106"+Replace this use of System.out by a logger.(³¬å8ËÚ¬ÄÂ2
