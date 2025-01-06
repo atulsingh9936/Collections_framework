@@ -1,0 +1,16 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸÉµ‰ÿÿÿÿÿ8ŞÀ®çÃ2J$42ed8995-d208-4668-bd9d-536180fa4047
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÎÙÿÿÿÿÿ8ßÀ®çÃ2J$2cf9d446-66f0-4b3e-b504-6c55f83f3697
+~	java:S125"<This block of commented-out lines of code should be removed.(àĞƒŞ8éÀ®çÃ2J$ef98de67-0549-41c3-bb79-bea756fea138
+m	java:S106"+Replace this use of System.out by a logger.(µˆœÑ8êÀ®çÃ2J$092a007e-cf3e-4ebd-b7d5-2dfbf6cbb567
+m	java:S106"+Replace this use of System.out by a logger.(÷Á¦¢8êÀ®çÃ2J$6a0c09ae-bf03-4e24-ad9c-682373c2fcfd
+m	java:S106"+Replace this use of System.out by a logger.(÷ ì²8êÀ®çÃ2J$328452bb-6ed7-45e1-904e-f0d3c9c52e31
+r	java:S106"+Replace this use of System.out by a logger.(ªÅÕùÿÿÿÿ8ëÀ®çÃ2J$b105a5ec-6e44-4a94-bd0e-7ca4770ade50
+
+java:S2175"GA "Map<String, Integer>" cannot contain a "String" in a "Integer" type.(ªÅÕùÿÿÿÿ8úû®çÃ2J$2f61d9ac-9de9-46fc-9c98-c1e6f3c5c30b
+r	java:S106"+Replace this use of System.out by a logger.(½¯©şÿÿÿÿ8ëÀ®çÃ2J$13674dcf-a93f-4aa2-929f-1f5707b7e884
+m	java:S106"+Replace this use of System.out by a logger.(ŸÅİ8ìÀ®çÃ2J$017e9099-c382-4e51-ba4a-062b2885f751
+r	java:S106"+Replace this use of System.out by a logger.(î’…ÿûÿÿÿÿ8íÀ®çÃ2J$2aff5c57-607f-404f-9bf2-761afb32d0f7
+m	java:S106"+Replace this use of System.out by a logger.(ú˜ÃÛ8îÀ®çÃ2J$65aaf0d6-44c9-4c7a-b565-ca5c9f997c7b
+m	java:S106"+Replace this use of System.out by a logger.(çÁ×ú8ïÀ®çÃ2J$80c7749d-c729-444c-a74d-63fa52176453
+m	java:S106"+Replace this use of System.out by a logger.(‰àÆ8ïÀ®çÃ2J$8e429d12-d56b-4a65-ae67-8f048c0d762e

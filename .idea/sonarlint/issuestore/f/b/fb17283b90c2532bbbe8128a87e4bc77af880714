@@ -1,0 +1,14 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Àô8ÅÖâéÂ2J$b11384f5-eae2-403f-826c-38aabcaf1d10
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÎÙÿÿÿÿÿ8ÅÖâéÂ2J$d4470f28-aa5d-4515-83b5-70d1d19d7a88
+
+java:S1192
+"FDefine a constant instead of duplicating this literal "Apple" 5 times.(Çà¥©ıÿÿÿÿ8ÅÖâéÂ2J$b98c6420-e793-4f6e-8131-ee8957996f6d
+r	java:S106"+Replace this use of System.out by a logger.(¸³ïÄøÿÿÿÿ8ÈÖâéÂ2J$588e82da-ee1b-486d-a100-e472e5579802
+r	java:S106"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8ÈÖâéÂ2J$3b74d538-9219-481c-bf84-0c3fef366a14
+m	java:S106"+Replace this use of System.out by a logger.(šüÒ8ÉÖâéÂ2J$ba956de6-ad8e-41e5-a3f0-ec25b07ba880
+m	java:S106"+Replace this use of System.out by a logger.(åĞ·‚8ÉÖâéÂ2J$bb6c385c-21d1-49e6-a577-4e95124befeb
+l	java:S106"+Replace this use of System.out by a logger.(ŠÂÓo8ÊÖâéÂ2J$dba67744-02ba-41b3-809c-0ecce84f7e66
+r	java:S106"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8˜‰åéÂ2J$8215940b-85e9-4006-8e65-81b4792c0bf9
+r	java:S106"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8ÇêìéÂ2J$1a1e2afc-de20-4c23-aa76-a16f1b770432
+L	java:S106"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8ßöòéÂ2
